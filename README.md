@@ -1,6 +1,5 @@
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mintynetwork) 
 [![Discord Presence](https://lanyard.cnrad.dev/api/904755421464637451?theme=dark)](https://discord.com/users/904755421464637451)
 
 # 💻 Tech Stack:
@@ -11,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matthias-codes&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=matthias-codes&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mintynetwork) 
